@@ -1,4 +1,4 @@
-'''name = input("Enter your name: ")  # taking name from usermaths
+name = input("Enter your name: ")  # taking name from usermaths
 math = int(input("Enter your maths marks: "))  # taking maths marks from user
 science = int(input("Enter your science marks: "))  # taking science marks from user
 english = int(input("Enter your english marks: "))  # taking english marks from user
@@ -39,10 +39,10 @@ print(f"Total marks:   {total}")  # printing total marks
 print(f"Average marks:   {percentage:.2f}")  # printing average marks
 print(f"grade:   {gread}")  # printing grade
 print(f"result:   {result}")  # printing result
-'''
+
  
-lis1 = []
+'''lis1 = []
 for i in range(1,6):
     num = int(input(f"Enter number {i}: "))
     lis1.append(num )
-print(lis1)
+print(lis1)'''
