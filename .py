@@ -1,14 +1,9 @@
-
-
-'''
 marks = []
 subjects = ["Maths", "Physics", "Chemistry", "Biology", "English"]                                                                        
 
 for sub in subjects:
     m = int(input(f"Enter {sub} marks: "))
     marks.append(m)
-'''
-
 
 #Function	              Purpose
 #len(list)	               Count how many elements are in the list
@@ -18,26 +13,26 @@ for sub in subjects:
 
 
 #len ()     function 
-'''my_marks = [88, 92, 75, 68, 90, 85]
+my_marks = [88, 92, 75, 68, 90, 85]
 # Print how many marks are there in the list
 
-print(len(my_marks))'''
+print(len(my_marks))
 
 
-'''
+
 #append() function                                                                                                                      
 my_marks = [88, 92, 75]
 # Print how many marks are there in the list                                                                        
 my_marks.append(80)
-print(my_marks)'''
+print(my_marks)
 
 
-'''#insert() function
+#insert() function
 my_marks = [60, 70, 90]
 # Insert 85 at index 2
 # Then print the list
 my_marks.insert(2,85)
-print(my_marks)'''
+print(my_marks)
 
 
 #remove() function
