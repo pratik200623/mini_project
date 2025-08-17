@@ -26,4 +26,4 @@ elif 75 <= averge < 90:
 elif 50 <=  averge < 75:
     print("Grade C")
 else:
-    print("Fail")
+    print("Fail f")
